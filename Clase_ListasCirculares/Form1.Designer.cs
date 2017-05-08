@@ -96,7 +96,7 @@
             this.dtpFin.Name = "dtpFin";
             this.dtpFin.Size = new System.Drawing.Size(121, 20);
             this.dtpFin.TabIndex = 5;
-            this.dtpFin.Value = new System.DateTime(2017, 5, 4, 7, 10, 0, 0);
+            this.dtpFin.Value = new System.DateTime(2017, 5, 4, 21, 10, 0, 0);
             // 
             // label1
             // 
